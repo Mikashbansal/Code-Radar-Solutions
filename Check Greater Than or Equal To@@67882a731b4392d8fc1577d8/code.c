@@ -1,4 +1,4 @@
-// Your code here...
+
 #include <stdio.h>
 int main() {
     int a,b;
@@ -9,6 +9,5 @@ int main() {
     else{
         printf("False\n");
     }
-   // printf("%s", welcome());
     return 0;
 }
